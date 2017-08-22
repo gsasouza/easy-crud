@@ -1,0 +1,19 @@
+{
+  "name": "easy-crud",
+  "version": "1.0.3",
+  "description": "Crud functions to your mongoose models with Promises",
+  "main": "index.js",
+  "keywords": ["crud", "mongoose", "promises"],
+  "homepage": "https://github.com/gsasouza/easy-crud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsasouza/easy-crud"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Santos Souza",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
